@@ -1,3 +1,3 @@
-Dragon Tracker|kazumi|Track baron and dragon when they are being attacked in fog of war|1614261786|v1|https://github.com/xkazumi/bruhwalker-dragon-tracker
-Example Viktor|kazumi|Viktor Example Script|1614261786|v1|https://github.com/xkazumi/bruhwalker-viktor
-Pussy Riven|Pussykate|Riven Script|1614261786|v1|https://raw.githubusercontent.com/Astraanator/test/main/Champions/PussyRiven.lua
+Dragon Tracker|kazumi|https://github.com/xkazumi/bruhwalker-dragon-tracker
+Viktor|kazumi|https://github.com/xkazumi/bruhwalker-viktor
+Pussy Riven|Pussykate|https://raw.githubusercontent.com/Astraanator/test/main/Champions/PussyRiven.lua
