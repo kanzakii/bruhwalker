@@ -1,3 +1,4 @@
 Dragon Tracker|kazumi|https://github.com/xkazumi/bruhwalker-dragon-tracker
 Viktor|kazumi|https://github.com/xkazumi/bruhwalker-viktor
 Pussy Riven|Pussykate|https://raw.githubusercontent.com/Astraanator/test/main/Champions/PussyRiven.lua
+Pussy Samira|Pussykate|https://raw.githubusercontent.com/Astraanator/test/main/Champions/PussySamira.lua
